@@ -1,0 +1,4 @@
+#This is the config file for i3-config
+#The format is 
+BrightnessUp=XF86MonBrightnessUp
+BrightnessDown=XF86MonBrightnessDown
